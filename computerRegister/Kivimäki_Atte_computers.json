@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "MaxEffect 2000",
+    "type": "gameover",
+    "amount": 30,
+    "price": 499
+  },
+  {
+    "id": 3,
+    "name": "BigFlop Mark II",
+    "type": "supercomputer",
+    "amount": 20,
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Beast II",
+    "type": "server",
+    "amount": 5,
+    "price": 2000
+  },
+  {
+    "id": 5,
+    "name": "Cera 2400",
+    "type": "tabletop",
+    "amount": 150,
+    "price": 1500
+  },
+  {
+    "id": 7,
+    "name": "GameDelux",
+    "type": "embedded",
+    "amount": 7,
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Xunil 4.7",
+    "type": "laptop",
+    "amount": 10,
+    "price": 200
+  },
+  {
+    "id": 6,
+    "name": "King 3000",
+    "type": "pocket computer",
+    "amount": 25,
+    "price": 700
+  }
+]

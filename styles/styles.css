@@ -1,0 +1,12 @@
+body {
+  background-image: url("/images/background.jpg");
+  background-size: cover;
+}
+
+.error {
+  color: red;
+}
+
+.info {
+  color: green;
+}

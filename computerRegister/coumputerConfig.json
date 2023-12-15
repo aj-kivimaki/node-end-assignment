@@ -1,0 +1,5 @@
+{
+  "storageFile": "Kivimäki_Atte_computers.json",
+  "adapterFile": "computerAdapter.js",
+  "primary_key": "id"
+}
